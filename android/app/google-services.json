@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564624671341",
+    "project_id": "chocolatesaray-1de78",
+    "storage_bucket": "chocolatesaray-1de78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564624671341:android:b9add80128b8e11a78f564",
+        "android_client_info": {
+          "package_name": "com.komai.chocsarayi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564624671341-f4ik5b88kl9appnro0vp332cl26pl739.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfFCvNE50aj7ZmKtU_SLf0kIfGgqLAABI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564624671341-f4ik5b88kl9appnro0vp332cl26pl739.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
