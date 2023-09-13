@@ -52,7 +52,8 @@ dependencies:
   firebase_messaging: ^14.6.5
   firebase_core: ^2.15.0
   firebase_auth: ^4.7.2
-  webview_flutter_wkwebview: 3.4.0
+  webview_flutter_wkwebview: 2.7.5
+  # 3.4.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
